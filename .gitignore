@@ -1,0 +1,5 @@
+# Ignore all files in the data directory
+SCODE-R/data/*
+
+# Except for download_data.py
+!data/download_data.py
