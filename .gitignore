@@ -1,5 +1,8 @@
 # Ignore all files in the data directory
-SCODE-R/data/*
-
+SCODE-R/data/data/*
+SCODE-R/data/graphcodebert-base/*
+SCODE-R/data/java/*
+SCODE-R/data/*.pkl
+SCODE-R/data/*.zip
 # Except for download_data.py
 !data/download_data.py
